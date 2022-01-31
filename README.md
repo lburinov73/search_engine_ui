@@ -1,3 +1,5 @@
+![Workflow status](https://github.com/lburinov73/search_engine_ui/actions/workflows/build-and-test.yml/badge.svg)
+
 # Search Engine UI
 
 Веб-интерфейс поиска слов и фраз на проиндексированных [ботом](https://github.com/express42/search_engine_crawler) сайтах.
